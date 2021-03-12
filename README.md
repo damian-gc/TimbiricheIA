@@ -17,3 +17,5 @@ La implementación sigue lo propuesto en el examen teórico previamente entregad
 ![](capturasDeSalida/c8.JPG)
 ![](capturasDeSalida/c9.JPG)
 ![](capturasDeSalida/c10.JPG)
+
+Después de tantos movimientos llegamos al fin del juego, a continuación se muestra la salida de pantalla.
